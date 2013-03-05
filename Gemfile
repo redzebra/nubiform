@@ -6,6 +6,5 @@ gemspec
 
 group :test do
   gem 'rake'
-  gem 'rcov'
   gem 'rspec'
 end

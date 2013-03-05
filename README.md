@@ -2,6 +2,8 @@
 
 adjective: Cloudlike
 
+[![Build Status](https://travis-ci.org/redzebra/nubiform.png)](https://travis-ci.org/redzebra/nubiform)
+
 ## Installation
 
 Add this line to your application's Gemfile:

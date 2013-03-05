@@ -2,8 +2,10 @@
 *.rbc
 .bundle
 .config
-coverage
+Gemfile.lock
 InstalledFiles
+bundle
+coverage
 lib/bundler/man
 pkg
 rdoc
